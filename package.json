@@ -4,7 +4,7 @@
   "description": "Shamim's personal digital diary in which he takes notes!",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",    
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon dist/server.js"
   },
   "author": "Muhammad SH",
@@ -14,7 +14,7 @@
     "morgan": "^1.9.1"
   },
   "devDependencies": {
-    "babel-cli": "^6.26.0", 
+    "babel-cli": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
     "nodemon": "^1.19.4",
     "rimraf": "^3.0.0"

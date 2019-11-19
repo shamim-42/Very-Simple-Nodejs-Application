@@ -10,7 +10,7 @@ app.get('/bis', function (req, res){
     res.send('Alhamdulillah');
 });
 
-app.get('/alhamdulillah', (req, res) => {
+app.get('/shukran', (req, res) => {
     res.send("Masha Allah");
 })
 
